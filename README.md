@@ -7,5 +7,5 @@ RetroClient is a free, fan-made recreation of Minecraft's early 2009 "Classic" v
 • Pure Nostalgia: It perfectly captures the simple, blocky, and creative atmosphere of early 2000s sandbox gaming without the complexity of modern survival mechanics.
 If you are looking to jump into the game, I can help you with the next steps. Would you like to know how to download and play it, how to host your own server, or what the most popular server game modes are right now?
 
-Please know that this is a beta version, so there is only singleplayer, sorry:(
+Please know that this is a beta version, so mutiplayer might have errors sometimes, but it should work!,
 Please play here: https://retroclient.apps.fimo.site/
